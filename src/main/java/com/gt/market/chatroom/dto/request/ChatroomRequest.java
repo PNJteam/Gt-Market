@@ -1,4 +1,4 @@
 package com.gt.market.chatroom.dto.request;
 
-public class test1 {
+public class ChatroomRequest {
 }
